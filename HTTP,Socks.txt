@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/clarketm/proxy-list/refs/heads/master/proxy-list-raw.txt
+https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/all/data.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks4.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/socks5.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/HTTPS_RAW.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/SOCKS4_RAW.txt
